@@ -12,7 +12,6 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -40,11 +39,9 @@ Projeto desenvolvido durante a trilha de React Native do Ignite oferecida pela [
 O layout da aplicação está disponível no Figma:
 
 <a href="https://www.figma.com/file/L442P4syOkbHGaLr4fGad4/to.do/duplicate">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Made by @tiagoluchtenberg" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-
-### Mobile
 
 <p align="center">
   <img alt="Todo Home" title="#todo" src="./assets/Home.png" width="200px">
